@@ -106,21 +106,6 @@ If you use this code or the data, please cite the original work.
 > Fontela, M. et al.: OAEPIIP Vigo May 2025 experiment data report,
 > digital.CSIC, https://digital.csic.es/handle/10261/000000, 2026.
 
-```bibtex
-@article{fontela2026oaepiip,
-  author  = {Fontela, Marcos and Froj{\'a}n, Mar{\'i}a and Arbones, Bel{\'e}n and
-             {\'A}lvarez-Fern{\'a}ndez, Mar{\'i}a Jes{\'u}s and Cesar-Ribeiro, Caio and
-             Doval, Marylo and Garrido, Jos{\'e} Lu{\'i}s and Groppelli, Sara and
-             L{\'o}pez-Acosta, Mar{\'i}a and L{\'o}pez-Rodriguez, Mar{\'i}a and
-             Hinojo, Celeste L. and Marig{\'o}mez, Blanca and Moreno, Laura and
-             P{\'e}rez, F{\'i}z F. and Gomes Teixeira, Isabel and Velo, Ant{\'o}n and
-             Padin, Xos{\'e} Antonio},
-  title   = {Ocean alkalinity enhancement pelagic impact in the Northwest Iberian
-             Upwelling System under nutrient limited conditions},
-  note    = {Manuscript under review},
-  year    = {2026}
-}
-```
 
 This work follows the methodological framework of the OAEPIIP technical note [(Bach et al., 2024)](https://bg.copernicus.org/articles/21/3665/2024/).
 
