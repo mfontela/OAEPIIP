@@ -111,7 +111,7 @@ This work follows the methodological framework of the OAEPIIP technical note [(B
 
 ## Acknowledgements
 
-The authors thank the SACUIM unit at IIM-CSIC for their valuable help with the experimental setup, and the R/V *Mytilus* crew for their invaluable collaboration and expertise during the microcosm filling process.
+The authors thank the SACUIM unit at IIM-CSIC for their valuable help with the experimental setup, and the R/V *Mytilus* crew for their invaluable collaboration and expertise during the microcosm filling process, and all the administrative staff, technicians and scientists whose collective efforts made the development of this dataset possible.
 
 <p align="center">
   <img src="img/01_rv_mytilus.jpg"          height="185" alt="R/V Mytilus alongside in Vigo">
