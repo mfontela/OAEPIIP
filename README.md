@@ -121,12 +121,6 @@ The authors thank the SACUIM unit at IIM-CSIC for their valuable help with the e
 </p>
 
 <p align="center">
-  <sub>
-    <em>Left to right:</em> R/V <em>Mytilus</em> alongside in Vigo · a microcosm being
-    filled from the base at the sampling site · a labelled microcosm with the 200 µm
-    mesh fitted · the filled microcosms on deck before transport to the incubation
-    room. Ría de Vigo, 9 May 2025.
-  </sub>
 </p>
 
 ## License
