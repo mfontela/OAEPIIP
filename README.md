@@ -74,9 +74,8 @@ install.packages(c("readxl", "dplyr", "tidyr", "stringr", "purrr", "tibble",
 source("OAEPIIP_publication_code.R")
 ```
 
-Everything is written to `OAEPIIP_output/`: the five figures as vector PDFs,
-`Table_2_GAMM_results.csv`, and `OAEPIIP_sessionInfo.txt` recording the exact
-package versions of the run. Set `RUN_GAMM <- FALSE` at the top of the script to
+Everything is written to `OAEPIIP_output/`: the five figures as vector PDFs and
+`Table_2_GAMM_results.csv`. Set `RUN_GAMM <- FALSE` at the top of the script to
 build only the figures and skip the model fitting, which takes a few minutes.
 
 The script is self-contained: it reads only the Excel workbook, has no hidden
