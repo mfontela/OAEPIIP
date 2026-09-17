@@ -33,7 +33,7 @@
 
 ## Path to the published Excel data file. By default the script looks for it
 ## in the working directory; edit this line if it lives somewhere else.
-DATA_FILE <- "OAEPIIP_Vigo_data_report.xlsx"
+DATA_FILE <- "OAEPIIP_Vigo_data_report.xlsx" #Download this file from digital.csic
 
 ## Where figures and tables are written.
 OUT_DIR <- "OAEPIIP_output"
